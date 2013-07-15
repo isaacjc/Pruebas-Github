@@ -1,4 +1,4 @@
-﻿ Modelo de datos
-Modificaci�n provisional
+﻿	 Modelo de datos
+	Modificaci�n provisional
 ¿Qué pasa si hago un git stash, luego un sync, y lo que se sincroniza es un archivo que he modificado en el commit que tengo pendiente y que he guardado con el git stash?
 Pues que te avisa del conflicto para que lo soluciones.
